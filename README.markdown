@@ -12,6 +12,9 @@ You can read more about the project on our [website](https://www.graylog.org/) a
 
 Found a bug? Have an idea for an improvement? Feel free to [add an issue](../../issues).
 
+## Link to Installation Docs
+
+here you will find the [installation instructions](https://docs.graylog.org/en/4.0/pages/installation.html)
 
 ## Contributing
 
